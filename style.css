@@ -4,5 +4,9 @@ p{
 
 h1{
     text-align: center;
-    color: rgba(179, 255, 0, 0.61);
+    color: rgba(112, 158, 3, 0.61);
+}
+
+.paragrafo1{
+    color: black;
 }
